@@ -14,6 +14,7 @@ Focused on Arch Linux, but building tools usable across Linux systems.
 ![Arch Linux](https://img.shields.io/badge/Arch-Linux-1793D1?logo=arch-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
+![AUR](https://img.shields.io/badge/AUR-Packages-blue)
 
 ---
 
@@ -21,6 +22,8 @@ Focused on Arch Linux, but building tools usable across Linux systems.
 
 ![Release](https://img.shields.io/github/v/release/KlodCripta/seccheck)
 ![Stars](https://img.shields.io/github/stars/KlodCripta/seccheck)
+![AUR version](https://img.shields.io/aur/version/seccheck)
+![AUR votes](https://img.shields.io/aur/votes/seccheck)
 
 Security and integrity checker for Arch Linux systems.  
 Provides clear, contextual analysis instead of raw output.
@@ -29,16 +32,17 @@ Provides clear, contextual analysis instead of raw output.
 
 ---
 
-## Audio
+## DistroHelper
 
-### Lunar Cinematic FX
+![Release](https://img.shields.io/github/v/release/KlodCripta/DistroHelper)
+![Stars](https://img.shields.io/github/stars/KlodCripta/DistroHelper)
+![AUR version](https://img.shields.io/aur/version/distrohelper)
+![AUR votes](https://img.shields.io/aur/votes/distrohelper)
 
-![Stars](https://img.shields.io/github/stars/KlodCripta/lunar-cinematic-fx)
+Interactive CLI tool that helps users choose a Linux distribution  
+based on real needs and usage.
 
-Custom EasyEffects preset for PipeWire (Linux).  
-Designed for cinematic audio depth on headphones.
-
-<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/lunar.png" width="400"/>
+<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/distrohelper.png" width="400"/>
 
 ---
 
@@ -70,17 +74,16 @@ Designed for safe and controlled maintenance.
 
 ---
 
-## Other
+## Audio
 
-### DistroHelper
+### Lunar Cinematic FX
 
-![Release](https://img.shields.io/github/v/release/KlodCripta/DistroHelper)
-![Stars](https://img.shields.io/github/stars/KlodCripta/DistroHelper)
-![AUR version](https://img.shields.io/aur/version/distrohelper)
-![AUR votes](https://img.shields.io/aur/votes/distrohelper)
+![Stars](https://img.shields.io/github/stars/KlodCripta/lunar-cinematic-fx)
 
-Interactive CLI tool that helps users choose a Linux distribution  
-based on real needs and usage.
+Custom EasyEffects preset for PipeWire (Linux).  
+Designed for cinematic audio depth on headphones.
+
+<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/lunar.png" width="400"/>
 
 ---
 
