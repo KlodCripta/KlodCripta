@@ -25,7 +25,7 @@ Focused on Arch Linux, but building tools usable across Linux systems.
 Security and integrity checker for Arch Linux systems.  
 Provides clear, contextual analysis instead of raw output.
 
-<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/seccheck.png" width="700"/>
+<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/seccheck.png" width="400"/>
 
 ---
 
@@ -38,7 +38,7 @@ Provides clear, contextual analysis instead of raw output.
 Custom EasyEffects preset for PipeWire (Linux).  
 Designed for cinematic audio depth on headphones.
 
-<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/lunar.png" width="700"/>
+<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/lunar.png" width="400"/>
 
 ---
 
@@ -52,7 +52,7 @@ Designed for cinematic audio depth on headphones.
 Live system information dashboard written in Bash.  
 Works across Linux distributions with real-time output.
 
-<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/datafetch.png" width="700"/>
+<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/datafetch.png" width="400"/>
 
 ---
 
@@ -66,7 +66,7 @@ Works across Linux distributions with real-time output.
 System cleanup tool for Arch-based systems.  
 Designed for safe and controlled maintenance.
 
-<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/cleaner.png" width="600"/>
+<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/cleaner.png" width="400"/>
 
 ---
 
