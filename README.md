@@ -87,6 +87,18 @@ Designed for safe and controlled maintenance.
 
 ---
 
+## Book
+
+### Arch Linux – Alla scoperta del sistema operativo
+
+A practical guide focused on understanding Arch Linux through installation and system building.  
+Includes a detailed walkthrough using Archinstall.
+Developed with Rik Man • Supported by the Italian Linux Society (ILS)
+
+<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/archlinux guida copertina.png" width="400"/>
+
+---
+
 ## Links
 
 - https://architalia.github.io/site  
