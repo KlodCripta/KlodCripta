@@ -27,7 +27,7 @@ Focused on Arch Linux, but building tools usable across Linux systems.
 🇬🇧 Custom EasyEffects preset for PipeWire (Linux).  
 Designed for cinematic audio depth on headphones.
 
-<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/lunar.png" width="400"/>
+<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/lunar.png" width="200"/>
 
 ---
 
