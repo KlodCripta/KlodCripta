@@ -1,6 +1,6 @@
 # Klod Cripta
 
-Arch Linux • Bash Tools • AUR
+Arch Linux | Bash Tools | AUR
 
 I build tools for Linux, mainly around Arch.
 
