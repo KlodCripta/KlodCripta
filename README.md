@@ -4,8 +4,6 @@ Arch Linux • Bash Tools • AUR
 
 I build tools for Linux, mainly around Arch.
 
-Focused on Arch Linux, but building tools usable across Linux systems.
-
 ---
 
 ## Tech
