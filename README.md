@@ -2,7 +2,7 @@
 
 Arch Linux • Bash Tools • AUR
 
-Building practical tools for Arch Linux users.  
+Building practical tools for Linux users.  
 No bloat, just function.
 
 ---
@@ -15,9 +15,34 @@ No bloat, just function.
 
 ---
 
-## Projects
+## SecCheck
 
-### Cleaner Advanced
+![Release](https://img.shields.io/github/v/release/KlodCripta/seccheck)
+![Stars](https://img.shields.io/github/stars/KlodCripta/seccheck)
+
+Security and integrity checker for Arch Linux systems.  
+Provides clear, contextual analysis instead of raw output.
+
+![SecCheck](https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/seccheck.png)
+
+---
+
+## Datafetch
+
+![Release](https://img.shields.io/github/v/release/KlodCripta/Datafetch)
+![Stars](https://img.shields.io/github/stars/KlodCripta/Datafetch)
+![AUR version](https://img.shields.io/aur/version/datafetch)
+![AUR votes](https://img.shields.io/aur/votes/datafetch)
+
+Live system information dashboard written in Bash.  
+Works across Linux distributions with real-time output.
+
+![Datafetch](https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/datafetch.png)
+
+---
+
+## Cleaner Advanced
+
 ![Release](https://img.shields.io/github/v/release/KlodCripta/Cleaner-Advanced)
 ![Stars](https://img.shields.io/github/stars/KlodCripta/Cleaner-Advanced)
 ![AUR version](https://img.shields.io/aur/version/cleaner-advanced)
@@ -26,20 +51,27 @@ No bloat, just function.
 System cleanup tool for Arch-based systems.  
 Designed for safe and controlled maintenance.
 
----
-
-### Datafetch
-![Release](https://img.shields.io/github/v/release/KlodCripta/Datafetch)
-![Stars](https://img.shields.io/github/stars/KlodCripta/Datafetch)
-![AUR version](https://img.shields.io/aur/version/datafetch)
-![AUR votes](https://img.shields.io/aur/votes/datafetch)
-
-Live system information dashboard written in Bash.  
-Real-time data with clean terminal output.
+![Cleaner Advanced](https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/cleaner.png)
 
 ---
+
+## Audio
+
+### Lunar Cinematic FX
+
+![Stars](https://img.shields.io/github/stars/KlodCripta/lunar-cinematic-fx)
+
+Custom EasyEffects preset for PipeWire (Linux).  
+Designed for cinematic audio depth on headphones.
+
+![Lunar FX](https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/lunar.png)
+
+---
+
+## Other
 
 ### DistroHelper
+
 ![Release](https://img.shields.io/github/v/release/KlodCripta/DistroHelper)
 ![Stars](https://img.shields.io/github/stars/KlodCripta/DistroHelper)
 ![AUR version](https://img.shields.io/aur/version/distrohelper)
@@ -47,23 +79,6 @@ Real-time data with clean terminal output.
 
 Interactive CLI tool that helps users choose a Linux distribution  
 based on real needs and usage.
-
----
-
-### SecCheck
-![Release](https://img.shields.io/github/v/release/KlodCripta/seccheck)
-![Stars](https://img.shields.io/github/stars/KlodCripta/seccheck)
-
-Security and integrity checker for Arch Linux systems.  
-Focused on clarity and contextual analysis.
-
----
-
-### Lunar Cinematic FX
-![Stars](https://img.shields.io/github/stars/KlodCripta/lunar-cinematic-fx)
-
-Custom EasyEffects preset for PipeWire.  
-Cinematic audio experience optimized for headphones.
 
 ---
 
