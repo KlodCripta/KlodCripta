@@ -18,6 +18,19 @@ Focused on Arch Linux, but building tools usable across Linux systems.
 
 ---
 
+## Audio
+
+### Lunar Cinematic FX
+
+![Stars](https://img.shields.io/github/stars/KlodCripta/lunar-cinematic-fx)
+
+🇬🇧 Custom EasyEffects preset for PipeWire (Linux).  
+Designed for cinematic audio depth on headphones.
+
+<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/lunar.png" width="400"/>
+
+---
+
 ## SecCheck
 
 ![Release](https://img.shields.io/github/v/release/KlodCripta/seccheck)
@@ -25,24 +38,10 @@ Focused on Arch Linux, but building tools usable across Linux systems.
 ![AUR version](https://img.shields.io/aur/version/seccheck)
 ![AUR votes](https://img.shields.io/aur/votes/seccheck)
 
-Security and integrity checker for Arch Linux systems.  
+🇬🇧🇮🇹 Security and integrity checker for Arch Linux systems.  
 Provides clear, contextual analysis instead of raw output.
 
 <img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/seccheck.png" width="400"/>
-
----
-
-## DistroHelper
-
-![Release](https://img.shields.io/github/v/release/KlodCripta/DistroHelper)
-![Stars](https://img.shields.io/github/stars/KlodCripta/DistroHelper)
-![AUR version](https://img.shields.io/aur/version/distrohelper)
-![AUR votes](https://img.shields.io/aur/votes/distrohelper)
-
-Interactive CLI tool that helps users choose a Linux distribution  
-based on real needs and usage.
-
-<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/distrohelper.png" width="400"/>
 
 ---
 
@@ -53,10 +52,24 @@ based on real needs and usage.
 ![AUR version](https://img.shields.io/aur/version/datafetch)
 ![AUR votes](https://img.shields.io/aur/votes/datafetch)
 
-Live system information dashboard written in Bash.  
+🇬🇧 Live system information dashboard written in Bash.  
 Works across Linux distributions with real-time output.
 
 <img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/datafetch.png" width="400"/>
+
+---
+
+## DistroHelper
+
+![Release](https://img.shields.io/github/v/release/KlodCripta/DistroHelper)
+![Stars](https://img.shields.io/github/stars/KlodCripta/DistroHelper)
+![AUR version](https://img.shields.io/aur/version/distrohelper)
+![AUR votes](https://img.shields.io/aur/votes/distrohelper)
+
+🇮🇹 Interactive CLI tool that helps users choose a Linux distribution  
+based on real needs and usage.
+
+<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/distrohelper.png" width="400"/>
 
 ---
 
@@ -67,23 +80,10 @@ Works across Linux distributions with real-time output.
 ![AUR version](https://img.shields.io/aur/version/cleaner-advanced)
 ![AUR votes](https://img.shields.io/aur/votes/cleaner-advanced)
 
-System cleanup tool for Arch-based systems.  
+🇬🇧🇮🇹 System cleanup tool for Arch-based systems.  
 Designed for safe and controlled maintenance.
 
 <img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/cleaner.png" width="400"/>
-
----
-
-## Audio
-
-### Lunar Cinematic FX
-
-![Stars](https://img.shields.io/github/stars/KlodCripta/lunar-cinematic-fx)
-
-Custom EasyEffects preset for PipeWire (Linux).  
-Designed for cinematic audio depth on headphones.
-
-<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/lunar.png" width="400"/>
 
 ---
 
@@ -91,3 +91,4 @@ Designed for cinematic audio depth on headphones.
 
 - https://architalia.github.io/site  
 - https://t.me/Klod_Cripta  
+- klodcripta@linux.it
