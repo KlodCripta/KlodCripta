@@ -27,7 +27,7 @@ Focused on Arch Linux, but building tools usable across Linux systems.
 🇬🇧 Custom EasyEffects preset for PipeWire (Linux).  
 Designed for cinematic audio depth on headphones.
 
-<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/lunar.png" width="200"/>
+<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/lunar.png" width="400"/>
 
 ---
 
@@ -95,7 +95,7 @@ A practical guide focused on understanding Arch Linux through installation and s
 Includes a detailed walkthrough using Archinstall.
 Developed with Rik Man • Supported by the Italian Linux Society (ILS)
 
-<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/archlinux guida copertina.png" width="400"/>
+<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/archlinux guida copertina.png" width="300"/>
 
 ---
 
