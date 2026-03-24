@@ -2,8 +2,7 @@
 
 Arch Linux • Bash Tools • AUR
 
-Building practical tools for Linux users.  
-No bloat, just function.
+I build tools for Linux, mainly around Arch.
 
 Focused on Arch Linux, but building tools usable across Linux systems.
 
