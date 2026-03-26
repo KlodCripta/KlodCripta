@@ -80,7 +80,7 @@ based on real needs and usage.
 🇬🇧🇮🇹 System cleanup tool for Arch-based systems.  
 Designed for safe and controlled maintenance.
 
-<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/cleaner.png" width="400"/>
+<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/cleaner_advanced_screenshots_1.png" width="400"/>
 
 ---
 
