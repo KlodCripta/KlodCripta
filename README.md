@@ -88,7 +88,7 @@ Designed for safe and controlled maintenance.
 
 ![Release](https://img.shields.io/github/v/release/KlodCripta/xauwatch)
 ![Stars](https://img.shields.io/github/stars/KlodCripta/xauwatch)
-<img src="https://img.shields.io/badge/status-pre--release-orange?style=for-the-badge">
+![Status](https://img.shields.io/badge/status-pre--release-orange)
 
 🇬🇧 Live XAU/USD monitor for terminal.  
 Displays gold price, spread, conversions and daily variation.
