@@ -92,7 +92,7 @@ Designed for safe and controlled maintenance.
 🇬🇧 Live XAU/USD monitor for terminal.  
 Displays gold price, spread, conversions and daily variation.
 
-<img src="https://raw.githubusercontent.com/KlodCripta/xauwatch/main/screenshots/xauwatch_screenshot_1.png" width="300"/>
+<img src="https://raw.githubusercontent.com/KlodCripta/xauwatch/main/screenshots/xauwatch_screenshot_1.png" width="400"/>
 
 ---
 
