@@ -52,7 +52,7 @@ Provides clear, contextual analysis instead of raw output.
 🇬🇧 Live system information dashboard written in Bash.  
 Works across Linux distributions with real-time output.
 
-<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/datafetch.png" width="400"/>
+<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/datafetch_v2.2_screenshot.png" width="400"/>
 
 ---
 
