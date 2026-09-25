@@ -55,9 +55,7 @@ Provides clear, contextual analysis instead of raw output.
 
 **Press D** to open more details, move through any further pages and return to the overview.
 
-<p align="center">
-  <a href="https://raw.githubusercontent.com/KlodCripta/Datafetch/main/screenshots/datafetch3_1.png"><img src="https://raw.githubusercontent.com/KlodCripta/Datafetch/main/screenshots/datafetch3_1.png" width="700" alt="Datafetch 3.0.1 screenshot: system, hardware and software information alongside live readings, with Nordic-inspired colors"></a>
-</p>
+<a href="https://raw.githubusercontent.com/KlodCripta/Datafetch/main/screenshots/datafetch3_1.png"><img src="https://raw.githubusercontent.com/KlodCripta/Datafetch/main/screenshots/datafetch3_1.png" width="400" alt="Datafetch 3.0.1 screenshot: system, hardware and software information alongside live readings, with Nordic-inspired colors"></a>
 
 [README in English](https://github.com/KlodCripta/Datafetch#english) · [README in italiano](https://github.com/KlodCripta/Datafetch#italiano)
 
@@ -79,22 +77,17 @@ based on real needs and usage.
 
 ---
 
-## [Cleaner Advanced 3.0](https://github.com/KlodCripta/Cleaner-Advanced)
+## Cleaner Advanced
 
-[![GitHub version 3.0](https://img.shields.io/badge/GitHub-3.0-1793D1)](https://github.com/KlodCripta/Cleaner-Advanced/blob/main/cleaner_advanced.sh)
-[![Stars](https://img.shields.io/github/stars/KlodCripta/Cleaner-Advanced)](https://github.com/KlodCripta/Cleaner-Advanced)
-[![AUR version](https://img.shields.io/aur/version/cleaner-advanced)](https://aur.archlinux.org/packages/cleaner-advanced)
-[![AUR votes](https://img.shields.io/aur/votes/cleaner-advanced)](https://aur.archlinux.org/packages/cleaner-advanced)
+![Release](https://img.shields.io/github/v/release/KlodCripta/Cleaner-Advanced)
+![Stars](https://img.shields.io/github/stars/KlodCripta/Cleaner-Advanced)
+![AUR version](https://img.shields.io/aur/version/cleaner-advanced)
+![AUR votes](https://img.shields.io/aur/votes/cleaner-advanced)
 
-🇬🇧🇮🇹 A Bash utility for cleaning package caches on Arch Linux and its derivatives, with an English or Italian terminal menu.
+🇬🇧🇮🇹 System cleanup tool for Arch-based systems.  
+Designed for safe and controlled maintenance.
 
-**New in 3.0:** automatic detection of **paru, yay, pikaur, aura, trizen and pakku**. Choose one detected helper or clean them all in sequence, with the helpers' own confirmation prompts. The update also refines the menu and fixes exiting with `0`.
-
-<p align="center">
-  <a href="https://github.com/KlodCripta/Cleaner-Advanced"><img src="https://raw.githubusercontent.com/KlodCripta/Cleaner-Advanced/main/cleaner_advanced_3.0_poster2.jpg" width="500" alt="Cleaner Advanced 3.0 poster"></a>
-</p>
-
-[README in English](https://github.com/KlodCripta/Cleaner-Advanced#english) · [README in italiano](https://github.com/KlodCripta/Cleaner-Advanced#italiano)
+<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/cleaner_advanced_screenshots_1.png" width="400"/>
 
 ---
 
