@@ -42,17 +42,26 @@ Provides clear, contextual analysis instead of raw output.
 
 ---
 
-## Datafetch
+## [Datafetch 3.0.1](https://github.com/KlodCripta/Datafetch)
 
-![Release](https://img.shields.io/github/v/release/KlodCripta/Datafetch)
-![Stars](https://img.shields.io/github/stars/KlodCripta/Datafetch)
-![AUR version](https://img.shields.io/aur/version/datafetch)
-![AUR votes](https://img.shields.io/aur/votes/datafetch)
+[![GitHub version 3.0.1](https://img.shields.io/badge/GitHub-3.0.1-82ADDE)](https://github.com/KlodCripta/Datafetch/blob/main/datafetch.sh)
+[![Stars](https://img.shields.io/github/stars/KlodCripta/Datafetch)](https://github.com/KlodCripta/Datafetch)
+[![AUR version](https://img.shields.io/aur/version/datafetch)](https://aur.archlinux.org/packages/datafetch)
+[![AUR votes](https://img.shields.io/aur/votes/datafetch)](https://aur.archlinux.org/packages/datafetch)
 
-🇬🇧 Live system information dashboard written in Bash.  
-Works across Linux distributions with real-time output.
+🇬🇧 A Bash dashboard for GNU/Linux, combining hardware and software information with live CPU, memory, disk, network and battery readings.
 
-<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/datafetch_v2.2_screenshot.png" width="400"/>
+**New in 3.0.1:** a cold **Nordic-inspired palette**, outlined title, adaptive framed panels, colored icons and display updates designed to reduce flicker. Reworked GPU detection and expanded software details include package managers, AUR helpers, shell, init, filesystem and audio servers.
+
+**Press D** to open more details, move through any further pages and return to the overview.
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/KlodCripta/Datafetch/main/screenshots/datafetch3_1.png"><img src="https://raw.githubusercontent.com/KlodCripta/Datafetch/main/screenshots/datafetch3_1.png" width="700" alt="Datafetch 3.0.1 screenshot: system, hardware and software information alongside live readings, with Nordic-inspired colors"></a>
+</p>
+
+[README in English](https://github.com/KlodCripta/Datafetch#english) · [README in italiano](https://github.com/KlodCripta/Datafetch#italiano)
+
+The GitHub badge shows the source version; the AUR badges show the separately maintained package.
 
 ---
 
@@ -70,17 +79,22 @@ based on real needs and usage.
 
 ---
 
-## Cleaner Advanced
+## [Cleaner Advanced 3.0](https://github.com/KlodCripta/Cleaner-Advanced)
 
-![Release](https://img.shields.io/github/v/release/KlodCripta/Cleaner-Advanced)
-![Stars](https://img.shields.io/github/stars/KlodCripta/Cleaner-Advanced)
-![AUR version](https://img.shields.io/aur/version/cleaner-advanced)
-![AUR votes](https://img.shields.io/aur/votes/cleaner-advanced)
+[![GitHub version 3.0](https://img.shields.io/badge/GitHub-3.0-1793D1)](https://github.com/KlodCripta/Cleaner-Advanced/blob/main/cleaner_advanced.sh)
+[![Stars](https://img.shields.io/github/stars/KlodCripta/Cleaner-Advanced)](https://github.com/KlodCripta/Cleaner-Advanced)
+[![AUR version](https://img.shields.io/aur/version/cleaner-advanced)](https://aur.archlinux.org/packages/cleaner-advanced)
+[![AUR votes](https://img.shields.io/aur/votes/cleaner-advanced)](https://aur.archlinux.org/packages/cleaner-advanced)
 
-🇬🇧🇮🇹 System cleanup tool for Arch-based systems.  
-Designed for safe and controlled maintenance.
+🇬🇧🇮🇹 A Bash utility for cleaning package caches on Arch Linux and its derivatives, with an English or Italian terminal menu.
 
-<img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/cleaner_advanced_screenshots_1.png" width="400"/>
+**New in 3.0:** automatic detection of **paru, yay, pikaur, aura, trizen and pakku**. Choose one detected helper or clean them all in sequence, with the helpers' own confirmation prompts. The update also refines the menu and fixes exiting with `0`.
+
+<p align="center">
+  <a href="https://github.com/KlodCripta/Cleaner-Advanced"><img src="https://raw.githubusercontent.com/KlodCripta/Cleaner-Advanced/main/cleaner_advanced_3.0_poster2.jpg" width="500" alt="Cleaner Advanced 3.0 poster"></a>
+</p>
+
+[README in English](https://github.com/KlodCripta/Cleaner-Advanced#english) · [README in italiano](https://github.com/KlodCripta/Cleaner-Advanced#italiano)
 
 ---
 
