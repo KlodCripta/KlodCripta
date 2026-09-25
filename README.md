@@ -42,24 +42,20 @@ Provides clear, contextual analysis instead of raw output.
 
 ---
 
-## [Datafetch 3.0.1](https://github.com/KlodCripta/Datafetch)
+## Datafetch 3.0.1
 
 [![GitHub version 3.0.1](https://img.shields.io/badge/GitHub-3.0.1-82ADDE)](https://github.com/KlodCripta/Datafetch/blob/main/datafetch.sh)
 [![Stars](https://img.shields.io/github/stars/KlodCripta/Datafetch)](https://github.com/KlodCripta/Datafetch)
 [![AUR version](https://img.shields.io/aur/version/datafetch)](https://aur.archlinux.org/packages/datafetch)
 [![AUR votes](https://img.shields.io/aur/votes/datafetch)](https://aur.archlinux.org/packages/datafetch)
 
-🇬🇧 A Bash dashboard for GNU/Linux, combining hardware and software information with live CPU, memory, disk, network and battery readings.
-
-**New in 3.0.1:** a cold **Nordic-inspired palette**, outlined title, adaptive framed panels, colored icons and display updates designed to reduce flicker. Reworked GPU detection and expanded software details include package managers, AUR helpers, shell, init, filesystem and audio servers.
-
-**Press D** to open more details, move through any further pages and return to the overview.
+🇬🇧 System information and live metrics for Linux.  
+**New in 3.0.1:** Nordic colors and adaptive panels.  
+Press **D** for hardware and software details.
 
 <a href="https://raw.githubusercontent.com/KlodCripta/Datafetch/main/screenshots/datafetch3_1.png"><img src="https://raw.githubusercontent.com/KlodCripta/Datafetch/main/screenshots/datafetch3_1.png" width="400" alt="Datafetch 3.0.1 screenshot: system, hardware and software information alongside live readings, with Nordic-inspired colors"></a>
 
 [README in English](https://github.com/KlodCripta/Datafetch#english) · [README in italiano](https://github.com/KlodCripta/Datafetch#italiano)
-
-The GitHub badge shows the source version; the AUR badges show the separately maintained package.
 
 ---
 
@@ -70,8 +66,8 @@ The GitHub badge shows the source version; the AUR badges show the separately ma
 ![AUR version](https://img.shields.io/aur/version/distrohelper)
 ![AUR votes](https://img.shields.io/aur/votes/distrohelper)
 
-🇮🇹 Interactive CLI tool that helps users choose a Linux distribution  
-based on real needs and usage.
+🇮🇹 Interactive CLI tool that helps users choose  
+a Linux distribution based on real needs and usage.
 
 <img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/distrohelper.png" width="400"/>
 
@@ -108,9 +104,14 @@ Displays gold price, spread, conversions and daily variation.
 
 ### Arch Linux – Alla scoperta del sistema operativo
 
-A practical guide focused on understanding Arch Linux through installation and system building.  
-Includes a detailed walkthrough using Archinstall.
-Developed with Rik Man • Supported by the Italian Linux Society (ILS)
+A practical guide focused on  
+understanding Arch Linux through  
+installation and system building.  
+Includes a detailed walkthrough  
+using Archinstall.  
+Developed with Rik Man •  
+Supported by the  
+Italian Linux Society (ILS)
 
 <img src="https://raw.githubusercontent.com/KlodCripta/KlodCripta/main/images/archlinux guida copertina.png" width="300"/>
 
