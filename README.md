@@ -55,8 +55,6 @@ Press **D** for hardware and software details.
 
 <a href="https://raw.githubusercontent.com/KlodCripta/Datafetch/main/screenshots/datafetch3_1.png"><img src="https://raw.githubusercontent.com/KlodCripta/Datafetch/main/screenshots/datafetch3_1.png" width="400" alt="Datafetch 3.0.1 screenshot: system, hardware and software information alongside live readings, with Nordic-inspired colors"></a>
 
-[README in English](https://github.com/KlodCripta/Datafetch#english) · [README in italiano](https://github.com/KlodCripta/Datafetch#italiano)
-
 ---
 
 ## DistroHelper
